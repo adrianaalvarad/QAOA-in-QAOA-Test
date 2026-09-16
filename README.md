@@ -1,12 +1,12 @@
-# PoC — Capa de Refinamiento Cuántica Adaptativa Agnóstica
-## (Multi-Subgrafo Residual + Enrutamiento Adaptativo R-QAOA / QAOA²)
+# PoC - Capa de Refinamiento Cuántica Adaptativa Agnóstica
+## Multi-Subgrafo Residual + Enrutamiento Adaptativo R-QAOA / QAOA²
 
-> **NTT DATA Perú — Equipo de Quantum Computing**  
+> **Innovation Center Lima - NTT DATA**  
 > **Caso Ficticio:** "Urbania Telecom" (Planificación de frecuencias y reducción de interferencias)  
 > **Implementación:** 100% Qiskit (simulación exacta por Statevector y ansatz variacional con Warm-Start)  
 > **Métodos Cuánticos:**  
 >   * **R-QAOA (Recursive QAOA, Bravyi et al. 2020):** Para topologías y subgrafos dispersos (densidad < 15%).  
->   * **$\text{QAOA}^2$ (QAOA-in-QAOA, Zhou et al. 2023):** Para topologías y subgrafos densos (densidad $\ge 15\%$).
+>   * **QAOA² (QAOA-in-QAOA, Zhou et al. 2023):** Para topologías y subgrafos densos (densidad < 15%).
 
 ---
 
