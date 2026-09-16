@@ -1,0 +1,5 @@
+# Dependencias del PoC - Capa de refinamiento QAOA-in-QAOA agnostica
+qiskit>=1.0.0
+networkx>=3.0
+numpy>=1.24.0
+scipy>=1.10.0
