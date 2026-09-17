@@ -18,7 +18,7 @@
     "num_subgraphs": 3,
     "solvers_used": "R-QAOA",
     "time_classical_sec": 0.0,
-    "time_quantum_sec": 0.675
+    "time_quantum_sec": 0.503
   },
   {
     "config_id": "sparse_100",
@@ -39,7 +39,7 @@
     "num_subgraphs": 3,
     "solvers_used": "R-QAOA",
     "time_classical_sec": 0.001,
-    "time_quantum_sec": 0.565
+    "time_quantum_sec": 0.466
   },
   {
     "config_id": "sparse_100",
@@ -59,8 +59,8 @@
     "subregion_size": 20,
     "num_subgraphs": 3,
     "solvers_used": "R-QAOA",
-    "time_classical_sec": 0.001,
-    "time_quantum_sec": 0.418
+    "time_classical_sec": 0.0,
+    "time_quantum_sec": 0.33
   },
   {
     "config_id": "sparse_100",
@@ -81,7 +81,7 @@
     "num_subgraphs": 3,
     "solvers_used": "R-QAOA",
     "time_classical_sec": 0.001,
-    "time_quantum_sec": 0.465
+    "time_quantum_sec": 1.713
   },
   {
     "config_id": "dense_100",
@@ -101,8 +101,8 @@
     "subregion_size": 30,
     "num_subgraphs": 4,
     "solvers_used": "QAOA^2",
-    "time_classical_sec": 0.002,
-    "time_quantum_sec": 0.318
+    "time_classical_sec": 0.009,
+    "time_quantum_sec": 1.108
   },
   {
     "config_id": "dense_100",
@@ -122,8 +122,8 @@
     "subregion_size": 30,
     "num_subgraphs": 4,
     "solvers_used": "QAOA^2",
-    "time_classical_sec": 0.003,
-    "time_quantum_sec": 0.311
+    "time_classical_sec": 0.01,
+    "time_quantum_sec": 1.081
   },
   {
     "config_id": "dense_100",
@@ -143,8 +143,8 @@
     "subregion_size": 30,
     "num_subgraphs": 4,
     "solvers_used": "QAOA^2",
-    "time_classical_sec": 0.002,
-    "time_quantum_sec": 0.309
+    "time_classical_sec": 0.007,
+    "time_quantum_sec": 1.08
   },
   {
     "config_id": "dense_100",
@@ -164,8 +164,8 @@
     "subregion_size": 30,
     "num_subgraphs": 4,
     "solvers_used": "QAOA^2",
-    "time_classical_sec": 0.004,
-    "time_quantum_sec": 0.315
+    "time_classical_sec": 0.014,
+    "time_quantum_sec": 1.212
   },
   {
     "config_id": "realistic_metropolitan",
@@ -185,8 +185,8 @@
     "subregion_size": 32,
     "num_subgraphs": 4,
     "solvers_used": "R-QAOA",
-    "time_classical_sec": 0.003,
-    "time_quantum_sec": 0.952
+    "time_classical_sec": 0.014,
+    "time_quantum_sec": 3.751
   },
   {
     "config_id": "realistic_metropolitan",
@@ -206,8 +206,8 @@
     "subregion_size": 32,
     "num_subgraphs": 4,
     "solvers_used": "R-QAOA",
-    "time_classical_sec": 0.028,
-    "time_quantum_sec": 0.845
+    "time_classical_sec": 0.119,
+    "time_quantum_sec": 3.479
   },
   {
     "config_id": "realistic_metropolitan",
@@ -227,8 +227,8 @@
     "subregion_size": 32,
     "num_subgraphs": 4,
     "solvers_used": "R-QAOA",
-    "time_classical_sec": 0.004,
-    "time_quantum_sec": 0.975
+    "time_classical_sec": 0.012,
+    "time_quantum_sec": 3.847
   },
   {
     "config_id": "realistic_metropolitan",
@@ -248,7 +248,7 @@
     "subregion_size": 32,
     "num_subgraphs": 4,
     "solvers_used": "R-QAOA",
-    "time_classical_sec": 0.026,
-    "time_quantum_sec": 2.398
+    "time_classical_sec": 0.094,
+    "time_quantum_sec": 3.565
   }
 ]

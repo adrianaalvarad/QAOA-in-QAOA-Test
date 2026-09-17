@@ -62,4 +62,5 @@ La interfaz `refine(graph, candidate_solution)` opera de forma idéntica sin con
 
 ## 4. Conclusión para la Conversación con el Cliente (Urbania Telecom)
 
-> La incorporación de múltiples subgrafos residuales y el enrutamiento adaptativo entre **R-QAOA** (para macroceldas dispersas) y **QAOA²** (para microceldas densas) responde directamente a las particularidades físicas de la red. La capa cuántica actúa como un refinador inteligente y agnóstico que respeta la infraestructura clásica del cliente, ataca focos críticos en paralelo y ofrece cero riesgo de degradación operativa.
+> **Conclusión Clave:**  
+> La incorporación de **múltiples subgrafos residuales** y el enrutamiento adaptativo entre **R-QAOA** (para macroceldas dispersas) y **QAOA²** (para microceldas densas) responde directamente a las particularidades físicas de la red. La capa cuántica actúa como un refinador inteligente y agnóstico que respeta la infraestructura clásica del cliente, ataca focos críticos en paralelo y ofrece **cero riesgo de degradación operativa**.

@@ -1,0 +1,4 @@
+# Aditivo al requirements.txt de la raiz del repo (qiskit, networkx, numpy,
+# scipy) -- el toolkit ademas necesita qiskit-aer para EstimatorV2/AerSimulator
+# (direct_qaoa.py y qaoa_square.py), que la raiz del repo no tiene.
+qiskit-aer>=0.13
